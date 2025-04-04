@@ -1,6 +1,6 @@
 # Project-on-AI
 
-## WEBSITE 
+# WEBSITE 
 
 - This repository contains a website about the information of artificial intelliigence .
 
